@@ -37,4 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# etc
 socMob-adherence.Rproj
+socMob.json
