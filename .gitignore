@@ -41,3 +41,4 @@ vignettes/*.pdf
 # etc
 socMob-adherence.Rproj
 socMob.json
+socMed.rds
